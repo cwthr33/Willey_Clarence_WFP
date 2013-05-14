@@ -7,6 +7,7 @@
     <file path="/index.html" changelist="9cb4bb30-2c53-4757-b831-0f92467e230e" time="1368501521014" ignored="false" />
     <file path="/script.js" changelist="9cb4bb30-2c53-4757-b831-0f92467e230e" time="1368515943962" ignored="false" />
     <file path="/Dummy.txt" changelist="9cb4bb30-2c53-4757-b831-0f92467e230e" time="1368516255888" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="9cb4bb30-2c53-4757-b831-0f92467e230e" time="1368516643223" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,31 +26,18 @@
     <favorites_list name="Associatingjs" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="50" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="44" selection-start="76" selection-end="76" vertical-scroll-proportion="0.07064364">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
   </component>
   <component name="GitLogSettings">
     <option name="myDateState">
@@ -99,10 +87,14 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JS/script.js" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -236,9 +228,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/script.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="44" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
+        <state line="4" column="50" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -250,37 +242,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="10" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="50" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="10" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="50" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="44" selection-start="76" selection-end="76" vertical-scroll-proportion="0.07064364">
+        <state line="4" column="50" selection-start="112" selection-end="112" vertical-scroll-proportion="0.10169491">
           <folding />
         </state>
       </provider>
